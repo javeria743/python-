@@ -1,2 +1,2 @@
 # python-
-In this repository i will add work related to python and also pythons's libraries
+In this repository i will have work related to python Basics
